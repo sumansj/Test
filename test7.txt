@@ -1,1 +1,2 @@
 Hello this is test 7..
+Welcome to file number 7
